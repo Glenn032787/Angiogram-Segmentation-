@@ -1,0 +1,11 @@
+pydicom
+cv2
+matplotlib
+numpy
+SimpleITK
+skimage
+scipy
+mpl_toolkits
+plotly
+stl
+trimesh
